@@ -9,4 +9,6 @@ a revisão desses conteúdos.
 * Collections
 * Introdução a padrões de projetos: 
 facade, singleton, strategy
+* Estrutura de dados:
+Arvore de busca binaria
 * 
